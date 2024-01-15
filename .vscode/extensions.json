@@ -2,7 +2,7 @@
     "recommendations": [
         ],
         "unwantedRecommendations": [
-          "formulahendry.code-runner"
-            
+            "formulahendry.code-runner",
+            "ms-toolsai.jupyter",
           ]
 }

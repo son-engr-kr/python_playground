@@ -2,3 +2,4 @@
 .venv\Scripts\python.exe -m pip install pyzbar
 .venv\Scripts\python.exe -m pip install opencv-python
 .venv\Scripts\python.exe -m pip install pylibdmtx
+.venv\Scripts\python.exe -m pip install pywin32
