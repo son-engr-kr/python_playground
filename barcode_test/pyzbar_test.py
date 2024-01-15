@@ -7,10 +7,10 @@ import pylibdmtx.pylibdmtx as dmtx
 
 print("start!")
 
-# img = cv2.imread('barcode_test/qr_test1234.png')
-img = cv2.imread('barcode_test/dmtx_test1234.png')
-# img = cv2.imread('barcode_test/7.jpg')
-# img = cv2.imread('barcode_test/dmtx_crop5.png')
+# img = cv2.imread('barcode_test/test_images/qr_test1234.png')
+img = cv2.imread('barcode_test/test_images/dmtx_test1234.png')
+# img = cv2.imread('barcode_test/private_images/7.jpg')
+# img = cv2.imread('barcode_test/private_images/dmtx_crop5.png')
 
 
 origin_width = int(img.shape[1])
